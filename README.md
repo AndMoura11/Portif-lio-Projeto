@@ -1,2 +1,2 @@
-# Projeto estruturado com fron-end
+# Projeto estruturado com front-end
 Portifólio pessoal
