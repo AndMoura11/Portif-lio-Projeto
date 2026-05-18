@@ -5,4 +5,4 @@ e funciona para varios tamanhos de telas pela sua responsividade
 
 # Onde Funciona?
 
-Pela utilização do GitHub Pages pelo commpartilhamento do link, ou pelo console local.
+Pela utilização do GitHub Pages pelo compartilhamento do link, ou pelo console local.
